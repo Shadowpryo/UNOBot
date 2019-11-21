@@ -1,0 +1,11 @@
+C:\Users\FGS_R17_10\Documents\UnoBot\UnoBot\bin\Debug\netcoreapp2.2\UnoBot.deps.json
+C:\Users\FGS_R17_10\Documents\UnoBot\UnoBot\bin\Debug\netcoreapp2.2\UnoBot.runtimeconfig.json
+C:\Users\FGS_R17_10\Documents\UnoBot\UnoBot\bin\Debug\netcoreapp2.2\UnoBot.runtimeconfig.dev.json
+C:\Users\FGS_R17_10\Documents\UnoBot\UnoBot\bin\Debug\netcoreapp2.2\UnoBot.dll
+C:\Users\FGS_R17_10\Documents\UnoBot\UnoBot\obj\Debug\netcoreapp2.2\UnoBot.csprojAssemblyReference.cache
+C:\Users\FGS_R17_10\Documents\UnoBot\UnoBot\obj\Debug\netcoreapp2.2\UnoBot.csproj.CoreCompileInputs.cache
+C:\Users\FGS_R17_10\Documents\UnoBot\UnoBot\obj\Debug\netcoreapp2.2\UnoBot.AssemblyInfoInputs.cache
+C:\Users\FGS_R17_10\Documents\UnoBot\UnoBot\obj\Debug\netcoreapp2.2\UnoBot.AssemblyInfo.cs
+C:\Users\FGS_R17_10\Documents\UnoBot\UnoBot\bin\Debug\netcoreapp2.2\UnoBot.pdb
+C:\Users\FGS_R17_10\Documents\UnoBot\UnoBot\obj\Debug\netcoreapp2.2\UnoBot.dll
+C:\Users\FGS_R17_10\Documents\UnoBot\UnoBot\obj\Debug\netcoreapp2.2\UnoBot.pdb
